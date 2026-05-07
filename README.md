@@ -26,8 +26,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
 <p>&emsp;&emsp;嗨，我是Jasper Kwok,热爱编程、读书、旅行。</p>
 </p>
 
