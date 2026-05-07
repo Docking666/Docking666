@@ -19,8 +19,23 @@
 
 <br/><br/>
 
-<!-- 🖼️ GitHub Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Docking666&theme=radical" alt="Profile Details"/>
+<!-- 🏃 About Me -->
+<h2>🏃 About Me</h2>
+
+> 嗨，我是 Jasper Kwok，热爱编程、读书、旅行。
+
+<br/>
+
+<!-- 🏢 Work Experience -->
+<h2>🏢 Work Experience</h2>
+
+- **华润三九旗下品牌顺峰宝宝** 📌 2025-09 —— 2026-02
+  - 工作岗位: 用户运营实习生
+  - 工作内容: 参与用户增长运营工作
+
+- **中国银河证券** 📌 2023-07 —— 2023-12
+  - 工作岗位: 实习生
+  - 工作内容: 参与市场研究与柜台业务
 
 <br/>
 
@@ -67,32 +82,7 @@
 
 <br/><br/>
 
-<!-- 🛠️ 技术栈图标 -->
-<h2>🛠️ Tech Stack</h2>
-
-<!-- 前端 -->
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,bootstrap&theme=dark" alt="Frontend"/>
-</p>
-
-<!-- 后端 -->
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,spring,django,express,fastapi,graphql&theme=dark" alt="Backend"/>
-</p>
-
-<!-- 数据库 & DevOps -->
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker,kubernetes,aws,linux,git,githubactions&theme=dark" alt="Database & DevOps"/>
-</p>
-
-<!-- 工具 & 其他 -->
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,webpack,vite,nginx,postman,jest,cypress,sentry&theme=dark" alt="Tools"/>
-</p>
-
-<br/>
-
-<!-- 📦 GitHub Profile Summary Cards (完整版) -->
+<!-- 📦 GitHub Profile Summary Cards -->
 <table>
   <tr>
     <td>
@@ -121,13 +111,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Docking666/Docking666/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Docking666/Docking666/output/github-snake-dark.svg" />
 </picture>
-
-<br/>
-
-<!-- 📰 最新博客文章 -->
-<h2>📝 Latest Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
