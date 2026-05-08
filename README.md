@@ -6,7 +6,7 @@
 
 <!-- 🔥 打字动画标题 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Docking666;A+Passionate+Full-Stack+Developer;Open+Source+Enthusiast+%F0%9F%9A%80;Love+Building+Cool+Stuff+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+JasperKwok;A+Passionate+Full-Stack+Developer;Open+Source+Enthusiast+%F0%9F%9A%80;Love+Building+Cool+Stuff+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- 🎨 社交徽章 -->
