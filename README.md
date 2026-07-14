@@ -13,7 +13,7 @@
 <a href="https://github.com/Docking666">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="http://jasperkwok.wuaze.com" target="_blank">
+<a href="http://jasperkwok.infinityfreeapp.com" target="_blank">
   <img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
 </a>
 
